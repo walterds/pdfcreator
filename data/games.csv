@@ -1,0 +1,25 @@
+Title,Genre,Store,Description,Pegi,Publisher,Controllers,Image_location,Type
+Game Alpha,Action,Steam,"A thrilling action game where you fight aliens.",16,Action Studios,"Keyboard, Gamepad",data/img/alpha.png,Destacado
+Game Beta,Adventure,Epic Store,"Explore ancient ruins in this epic adventure.",12,Adventure Inc.,"Keyboard, Gamepad",data/img/beta.png,New
+Game Gamma,RPG,GOG,"A deep RPG with a rich story and choices.",18,RPG Masters,"Keyboard, Mouse",data/img/gamma.png,New
+Game Delta,Action,Steam,"Fast-paced shooter with multiplayer.",16,Action Studios,"Gamepad",data/img/delta.png,Genre
+Game Epsilon,Strategy,Origin,"Build your empire and conquer the world.",12,Strategy Corp,"Mouse",data/img/epsilon.png,Genre
+Game Zeta,Action,Steam,"Another action game, very intense.",18,Action Studios,"Keyboard, Gamepad",data/img/zeta.png,Genre
+Game Eta,Simulation,Steam,"Realistic simulation of truck driving.",3,Simulators Ltd.,"Steering Wheel, Keyboard",data/img/eta.png,New
+Game Theta,RPG,Epic Store,"Fantasy RPG with dragons.",16,RPG Masters,"Keyboard, Gamepad",data/img/theta.png,Genre
+Game Iota,Action,GOG,"Retro style action platformer.",7,Indie Action Devs,"Gamepad",data/img/iota.png,Genre
+Game Kappa,Strategy,Steam,"Turn-based strategy in space.",7,Strategy Corp,"Mouse, Keyboard",data/img/kappa.png,Genre
+Game Lambda,Adventure,Steam,"Point and click adventure mystery.",12,Adventure Inc.,"Mouse",data/img/lambda.png,Destacado
+Game Mu,Simulation,Epic Store,"Become a virtual farmer.",3,Simulators Ltd.,"Keyboard",data/img/mu.png,New
+Game Nu,Action,Steam,"Zombie survival action game.",18,Action Studios,"Gamepad, Keyboard",data/img/nu.png,Genre
+Game Xi,RPG,GOG,"Sci-fi RPG with branching narrative.",16,RPG Masters,"Keyboard, Mouse",data/img/xi.png,Genre
+Game Omicron,Strategy,Steam,"Real-time strategy with historical battles.",12,Strategy Corp,"Mouse",data/img/omicron.png,Genre
+Game Pi,Adventure,Origin,"A relaxing exploration game.",3,Indie Adventure Co,"Keyboard",data/img/pi.png,New
+Game Rho,Action,Steam,"High octane racing action.",7,Racing Games Co.,"Gamepad, Steering Wheel",data/img/rho.png,Genre
+Game Sigma,Simulation,Steam,"Manage your own virtual city.",3,Simulators Ltd.,"Mouse, Keyboard",data/img/sigma.png,Genre
+Game Tau,RPG,Steam,"Open world RPG with vast lands.",18,RPG Masters,"Keyboard, Gamepad",data/img/tau.png,Destacado
+Game Upsilon,Action,Epic Store,"Stealth action game.",16,Stealthy Devs,"Gamepad",data/img/upsilon.png,Genre
+Game Phi,Strategy,GOG,"4X strategy game set in ancient times.",12,Strategy Corp,"Mouse",data/img/phi.png,New
+Game Chi,Adventure,Steam,"Narrative driven walking simulator.",7,Story Games Co.,"Keyboard",data/img/chi.png,Genre
+Game Psi,Simulation,Steam,"Flight simulator with realistic physics.",3,Simulators Ltd.,"Joystick, Keyboard",data/img/psi.png,Genre
+Game Omega,RPG,Steam,"The ultimate RPG experience to end all RPGs.",18,RPG Masters,"Keyboard, Gamepad, VR",data/img/omega.png,Destacado
